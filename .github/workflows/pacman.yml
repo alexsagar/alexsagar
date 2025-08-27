@@ -2,7 +2,7 @@ name: Generate PacMan Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -21,13 +21,12 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          output_file: output/pacman-contribution-graph.svg
 
       - name: Commit & push changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add output/pacman-contribution-graph.svg
+          git add dist/pacman-contribution-graph.svg
           git commit -m "Update PacMan graph [skip ci]" || echo "No changes to commit"
           git push
         env:
