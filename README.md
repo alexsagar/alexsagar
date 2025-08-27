@@ -54,5 +54,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alexsagar/alexsagar/main/output/pacman-contribution-graph.svg" alt="PacMan Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/alexsagar/alexsagar/main/dist/pacman-contribution-graph.svg" alt="PacMan Contribution Graph" />
 </div>
