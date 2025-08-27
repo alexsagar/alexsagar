@@ -3,25 +3,41 @@
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express.js" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="Figma" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=adobe" height="60" alt="Adobe" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="TailwindCSS" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rest" height="60" alt="RESTful APIs" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman" />
 </div>
 
 ---
