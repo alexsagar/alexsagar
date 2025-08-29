@@ -13,7 +13,10 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alexsagar&"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
 
 ###
@@ -24,27 +27,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,nextjs,mysql,postgresql,postman,tailwind,docker,git,figma,photoshop,illustrator" height="120" />
 </div>
 
----
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/alexsagar/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/alexsagar">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://discord.gg/yourdiscord">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" alt="Discord" />
-  </a>
-  <a href="https://twitch.tv/alexsagar">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&logoColor=white&style=for-the-badge" alt="Twitch" />
-  </a>
-  <a href="https://dev.to/alexsagar">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&color=0A0A0A&logoColor=white&style=for-the-badge" alt="Dev.to" />
-  </a>
-</div>
-
----
 
 <!-- STATS (consistent Tokyonight theme) -->
 <div align="center">
