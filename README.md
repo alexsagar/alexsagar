@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,nextjs,mysql,postgresql,rest,postman,tailwind,docker,git,figma,adobe" height="60" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,nextjs,mysql,postgresql,rest,postman,tailwind,docker,git,figma,adobe" height="90" />
 </div>
 
 ---
