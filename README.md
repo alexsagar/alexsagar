@@ -62,9 +62,12 @@
 
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=alexsagar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub streak graph" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexsagar&show_icons=true&locale=en&layout=compact" alt="alexsagar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsagar&show_icons=true&locale=en" alt="alexsagar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexsagar&" alt="alexsagar" /></p>
+
 
 ---
 
