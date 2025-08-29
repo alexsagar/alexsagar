@@ -31,28 +31,20 @@
 <!-- STATS (consistent Tokyonight theme) -->
 <div align="center">
 
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=alexsagar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" 
-    alt="Top Languages" 
-    height="150" 
-  />
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexsagar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="150" />
+  </span>
+  
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=alexsagar&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  </span>
 
-  <!-- Overall Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=alexsagar&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="GitHub Stats" 
-    height="150" 
-  />
-
-  <!-- Streak -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=alexsagar&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak" 
-    height="150" 
-  />
+  <span>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=alexsagar&theme=tokyonight&hide_border=true" height="150" />
+  </span>
 
 </div>
+
 
 
 ---
