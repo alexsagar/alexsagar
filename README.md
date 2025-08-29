@@ -18,8 +18,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" alt="facebook logo"/>
   </a>
   <a href="https://instagram.com/unsagarized" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" alt="instagram logo"/>
-  </a>
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge"/>
+</a>
   <a href="https://linkedin.com/in/sagar-nepali-293751217" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="linkedin logo"/>
   </a>
