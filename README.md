@@ -66,7 +66,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsagar&show_icons=true&locale=en" alt="alexsagar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexsagar&" alt="alexsagar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=alexsagar&theme=tokyonight&hide_border=true" alt="alexsagar" /></p>
 
 
 ---
