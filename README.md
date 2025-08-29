@@ -3,41 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="Figma" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=adobe" height="60" alt="Adobe" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="TailwindCSS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rest" height="60" alt="RESTful APIs" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,nextjs,mysql,postgresql,rest,postman,tailwind,docker,git,figma,adobe" height="60" />
 </div>
 
 ---
@@ -62,12 +28,31 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexsagar&show_icons=true&locale=en&layout=compact" alt="alexsagar" /></p>
+<!-- STATS (consistent Tokyonight theme) -->
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsagar&show_icons=true&locale=en" alt="alexsagar" /></p>
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=alexsagar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="150"
+  />
+  
+  <!-- Overall Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=alexsagar&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+    height="150"
+  />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=alexsagar&theme=tokyonight&hide_border=true" alt="alexsagar" /></p>
+  <!-- Streak (fixed URL, no trailing & ) -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=alexsagar&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    height="150"
+  />
 
+</div>
 
 ---
 
