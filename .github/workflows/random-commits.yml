@@ -1,0 +1,52 @@
+name: Random GitHub Contributions
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # Runs every day at 00:00 UTC
+  workflow_dispatch: {}    # Let you run it manually from the Actions tab
+
+jobs:
+  random-commits:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up git user
+        run: |
+          git config user.name "alexsagar"
+          git config user.email "gamesagar85@gmail.com"
+
+      - name: Random commits
+        run: |
+          # Decide whether to commit today
+          # ~50% chance to SKIP, ~50% chance to COMMIT
+          R=$(( RANDOM % 100 ))
+          echo "Random number (0-99): $R"
+
+          if [ "$R" -lt 50 ]; then
+            echo "Skipping today, no commits."
+            exit 0
+          fi
+
+          echo "We will commit today."
+
+          # Decide how many commits: 1–4
+          COMMITS=$(( (RANDOM % 4) + 1 ))
+          echo "Number of commits today: $COMMITS"
+
+          # Make sure the file/folder exists
+          mkdir -p dist
+          touch dist/random-log.txt
+
+          for i in $(seq 1 $COMMITS); do
+            echo "$(date -u +"%Y-%m-%d %H:%M:%S") - random commit $i" >> dist/random-log.txt
+            git add dist/random-log.txt
+            git commit -m "Random commit $i on $(date -u +"%Y-%m-%d")"
+            sleep 2   # small delay so commits have slightly different times
+          done
+
+      - name: Push changes
+        run: |
+          git push
