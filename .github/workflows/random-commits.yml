@@ -3,11 +3,11 @@ name: Random GitHub Contributions
 on:
   schedule:
     - cron: '0 0 * * *'   # Runs every day at 00:00 UTC
-  workflow_dispatch: {}    # Let you run it manually from the Actions tab
+  workflow_dispatch: {}    # Run manually from Actions tab
 
 permissions:
-  contents: write 
-  
+  contents: write
+
 jobs:
   random-commits:
     runs-on: ubuntu-latest
@@ -24,12 +24,12 @@ jobs:
       - name: Random commits
         run: |
           # Decide whether to commit today
-          # ~50% chance to SKIP, ~50% chance to COMMIT
+          # ~20% chance to SKIP, ~80% chance to COMMIT
           R=$(( RANDOM % 100 ))
           echo "Random number (0-99): $R"
 
-          if [ "$R" -lt 50 ]; then
-            echo "Skipping today, no commits."
+          if [ "$R" -lt 20 ]; then
+            echo "Skipping today (low chance)."
             exit 0
           fi
 
@@ -47,7 +47,7 @@ jobs:
             echo "$(date -u +"%Y-%m-%d %H:%M:%S") - random commit $i" >> dist/random-log.txt
             git add dist/random-log.txt
             git commit -m "Random commit $i on $(date -u +"%Y-%m-%d")"
-            sleep 2   # small delay so commits have slightly different times
+            sleep 2
           done
 
       - name: Push changes
